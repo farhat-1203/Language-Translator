@@ -22,7 +22,7 @@ A simple Python script that allows users to translate text from one language to 
 
 1. **Clone the repository:**
     ```bash
-    git clone https://github.com/your-username/google-translate-script.git
+    git clone https://github.com/farhat-1203/google-translate-script.git
     cd google-translate-script
     ```
 
